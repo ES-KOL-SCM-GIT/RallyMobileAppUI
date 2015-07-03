@@ -14,7 +14,7 @@
 		<servlet-class>org.mitre.dsmiley.httpproxy.ProxyServlet</servlet-class>
 		<init-param>
 			<param-name>targetUri</param-name>
-			<param-value>http://127.0.0.1:8080/CrunchifyTutorials</param-value>
+			<param-value>http://10.195.10.166:8080/RallyRestWSFramework</param-value>
 		</init-param>
 		<init-param>
 			<param-name>log</param-name>
